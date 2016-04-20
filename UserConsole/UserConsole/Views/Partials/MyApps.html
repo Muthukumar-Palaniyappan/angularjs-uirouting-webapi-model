@@ -1,0 +1,42 @@
+﻿<!--<div class="container">-->
+
+    <div class="container">
+        <div id='tab1' class="tab">
+            
+            <b>Note:</b> <br />
+            {{note}}<br />
+            <input type="text" ng-model="searchText.apps.Name" placeholder="Search Apps..."/><br />
+
+            <table>
+                <tr ng-repeat="group in appList |filter:searchText">
+                    <td>
+                        <table>
+                            <thead>
+                                <tr class="tablerowheader">
+                                    <td style="width:30%"><b>{{group.groupName}}</b></td>
+                                    <td style="width:30%">Show in panel</td>
+                                    <td style="width:30%">Order</td>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                <tr ng-repeat="app in group.apps | filter:searchText.apps">
+                                    <td> {{app.Name}}  </td>
+                                    <td><input type="checkbox" ng-model="app.canShow" /></td>
+                                    <td>
+                                        <select ng-model="app.order" ng-options="i as i for i in appRange|orderBy:i">
+                                            <!--<option ng-repeat="i in appRange" ng-value="i" ng-selected="app.order==i">{{i}}</option>-->
+                                        </select>
+
+
+                                    </td>
+                                </tr>
+                            </tbody>
+                        </table>
+                    </td>
+                </tr>
+            </table>
+        </div>
+        <div align="center">
+            <input type="button" value="Save" ng-click="saveAppSettings()" />
+        </div>
+        </div>

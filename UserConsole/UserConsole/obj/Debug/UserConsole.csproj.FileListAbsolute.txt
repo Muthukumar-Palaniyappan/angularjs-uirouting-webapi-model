@@ -1,0 +1,40 @@
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\csc.exe
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\System.Collections.Immutable.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\vbc.exe
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\VBCSCompiler.exe
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\roslyn\VBCSCompiler.exe.config
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\UserConsole.dll.config
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\UserConsole.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\UserConsole.pdb
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\obj\Debug\UserConsole.csprojResolveAssemblyReference.cache
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\obj\Debug\UserConsole.dll
+c:\users\mpalaniappan\documents\visual studio 2015\Projects\UserConsole\UserConsole\obj\Debug\UserConsole.pdb
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\csc.exe
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\vbc.exe
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\VBCSCompiler.exe
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\UserConsole.dll.config
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\UserConsole.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\UserConsole.pdb
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\obj\Debug\UserConsole.csprojResolveAssemblyReference.cache
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\obj\Debug\UserConsole.dll
+C:\Users\MuthukumarPL\Desktop\UserConsole\UserConsole\obj\Debug\UserConsole.pdb

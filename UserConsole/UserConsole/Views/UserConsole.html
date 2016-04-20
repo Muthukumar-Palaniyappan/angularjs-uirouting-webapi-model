@@ -1,0 +1,39 @@
+﻿<!DOCTYPE html>
+<html >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Title</title>
+    <link href="../Css/style.css" rel="stylesheet" />
+    <script src="../Scripts/Libraries/jquery.min.js"></script>
+    <script src="../Scripts/Libraries/angular.min.js"></script>
+
+    <script src="../Scripts/Libraries/angular-route.min.js"></script>
+    <script src="../Scripts/app.js"></script>
+    <script src="../Scripts/Controllers/MyAppsController.js"></script>
+    <script src="../Scripts/Controllers/MyUpdatesController.js"></script>
+    <script src="../Scripts/tabs.js"></script>
+</head>
+<body ng-app="myModule">
+
+<div id="wrapper">
+    {{10/2}}
+	<ul class='tabs'>
+		<li><a href='#/MyApps'>My Apps</a></li>
+		<li><a href='#/MyUpdates'>My Updates</a></li>
+		<li><a href='tab3'>My Links</a></li>
+		<li><a href='tab4'>Notifications</a></li>
+		<li><a href='tab5'>Team Sites</a></li>
+	</ul>
+    <!-- Place Holder for Views-->
+    <div ng-view>
+
+    </div>
+
+
+</div><!-- end wrapper -->
+
+
+
+</body>
+</html>
